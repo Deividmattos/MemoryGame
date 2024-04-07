@@ -1,5 +1,5 @@
 // Crie uma matriz com pares de números representando as cartas
-const cards = [1, 1, 2, 2, 3, 3, 4, 4];
+const cards = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8];
 
 // Crie um objeto para armazenar as imagens correspondentes para cada carta
 async function generateImagePairs() {
